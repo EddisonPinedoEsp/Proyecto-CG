@@ -10,4 +10,6 @@ Integrantes:
 
 ## Descripción
 
-El proyecto consiste en un juego de disparos en 3D que combina acción y educación. Acompaña a Utechie en una aventura por el primer piso del campus de UTEC, enfrentándose a enemigos temáticos en cada stand de carrera. Desde virus informáticos en Ciencias de la Computación hasta bacterias en Bioingeniería, los desafíos se activan al acercarse a los stands. Los jugadores compiten por el mejor tiempo de supervivencia mientras aprenden sobre las distintas carreras.
+¡Explora UTEC de una manera única con el juego UTECHIE!
+
+Sumérgete en el primer piso de la Universidad de Ingeniería y Tecnología (UTEC) a través de nuestro emocionante juego virtual. Descubre los distintos stands que presentan las variadas carreras que ofrece nuestra universidad, cada uno con información detallada y accesible con solo acercarte en el juego. Pero eso no es todo: ¡una invasión de pequeños aliens traviesos ha puesto en jaque nuestro campus! Únete a UTECHIE en esta aventura interactiva y participa en un minijuego lleno de acción. Entra en el círculo amarillo y ayuda a limpiar el campus zapeando a los invasores. ¡Descarga el juego ahora y comienza tu aventura en UTEC, donde la diversión y el aprendizaje se encuentran en cada esquina!
