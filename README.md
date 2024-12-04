@@ -21,7 +21,7 @@ Sumérgete en el primer piso de la Universidad de Ingeniería y Tecnología (UTE
    - Asegúrate de incluir los módulos necesarios para tu sistema operativo
 
 ### Instalación del Juego
-1. Descarga el archivo UTECHIE.zip
+1. Descarga el archivo UTECHIE.zip del sigueinte link: https://drive.google.com/uc?id=1xqphGFNb-TlzlIzShzaeZJg3oOSmY3-P&export=download
 2. Descomprime el archivo en la ubicación deseada
 3. Abre Unity Hub
 4. En Unity Hub, selecciona "Add project from disk"
