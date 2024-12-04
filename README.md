@@ -15,19 +15,19 @@ Sumérgete en el primer piso de la Universidad de Ingeniería y Tecnología (UTE
 ## Guía de Instalación
 
 ### Requisitos Previos
-1. Descargar Unity Hub desde la página oficial de Unity: [https://unity.com/download](https://unity.com/download)
-2. Instalar la versión específica de Unity: 2022.3.49f1
-   - Puedes instalarla desde Unity Hub en la sección de "Installs"
-   - Asegúrate de incluir los módulos necesarios para tu sistema operativo
+   1. Descargar Unity Hub desde la página oficial de Unity: [https://unity.com/download](https://unity.com/download)
+   2. Instalar la versión específica de Unity: 2022.3.49f1
+      - Puedes instalarla desde Unity Hub en la sección de "Installs"
+      - Asegúrate de incluir los módulos necesarios para tu sistema operativo
 
 ### Instalación del Juego
-1. Descarga el archivo UTECHIE.zip del siguiente link: https://drive.google.com/uc?id=1xqphGFNb-TlzlIzShzaeZJg3oOSmY3-P&export=download
-2. Descomprime el archivo en la ubicación deseada
-3. Abre Unity Hub
-4. En Unity Hub, selecciona "Add project from disk"
-5. Navega hasta la carpeta donde descomprimiste UTECHIE y selecciónala
-6. El proyecto se añadirá a tu lista de proyectos en Unity Hub
-7. Haz clic en el proyecto para abrirlo
+   1. Descarga el archivo UTECHIE.zip del siguiente link: https://drive.google.com/uc?id=1xqphGFNb-TlzlIzShzaeZJg3oOSmY3-P&export=download
+   2. Descomprime el archivo en la ubicación deseada
+   3. Abre Unity Hub
+   4. En Unity Hub, selecciona "Add project from disk"
+   5. Navega hasta la carpeta donde descomprimiste UTECHIE y selecciónala
+   6. El proyecto se añadirá a tu lista de proyectos en Unity Hub
+   7. Haz clic en el proyecto para abrirlo
 
 ## Derechos de Autor
 
